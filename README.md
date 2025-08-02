@@ -45,18 +45,18 @@ Follow these steps to get the application running on your local machine:
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/ItsmeMIGUEL/sample-crud-app.git
-   cd user-crud-app
+   - git clone https://github.com/ItsmeMIGUEL/sample-crud-app.git
+   - cd user-crud-app
    \`\`\`
 
 2. **Install dependencies**
    \`\`\`bash
-   npm install
+   - npm install
    \`\`\`
 
 3. **Start development server**
    \`\`\`bash
-   npm run dev
+   - npm run dev
    \`\`\`
 
 4. **Open in browser**
