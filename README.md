@@ -35,7 +35,7 @@ Open your terminal/command prompt and run:
 node --version
 npm --version
 
-If you see version numbers, you're good to go! If not, download Node.js from [nodejs.org](https://nodejs.org/).
+If you see version numbers, you're good to go! If not, download Node.js from browser.
 
 ## Installation & Setup
 
@@ -45,8 +45,8 @@ Follow these steps to get the application running on your local machine:
 
 1. **Clone the repository**
    \`\`\`bash
-   git clone https://github.com/your-username/user-management-system.git
-   cd user-management-system
+   git clone https://github.com/ItsmeMIGUEL/sample-crud-app.git
+   cd user-crud-app
    \`\`\`
 
 2. **Install dependencies**
@@ -63,7 +63,7 @@ Follow these steps to get the application running on your local machine:
    - Navigate to `http://localhost:..../`
    - The application should now be running!
 
-Open your web browser and go to **http://localhost:3001/** to view the application.
+Open your web browser and go to **http://localhost:..../** to view the application.
 
 ## How to Use the Application
 
@@ -121,7 +121,6 @@ Open your web browser and go to **http://localhost:3001/** to view the applicati
 **Solution**:
 
 - Check that the development server is running
-- Make sure you're accessing the correct URL (usually http://localhost:5173)
 - Check your internet connection
 
 **Issue**: Users don't load
