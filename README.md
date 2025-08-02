@@ -31,7 +31,6 @@ Before running this project, make sure you have the following installed on your 
 ### How to Check if Node.js is Installed
 
 Open your terminal/command prompt and run:
-\`\`\`bash
 node --version
 npm --version
 
@@ -44,20 +43,14 @@ Follow these steps to get the application running on your local machine:
 ### Installation
 
 1. **Clone the repository**
-   \`\`\`bash
    - git clone https://github.com/ItsmeMIGUEL/sample-crud-app.git
    - cd user-crud-app
-   \`\`\`
 
 2. **Install dependencies**
-   \`\`\`bash
    - npm install
-   \`\`\`
 
 3. **Start development server**
-   \`\`\`bash
    - npm run dev
-   \`\`\`
 
 4. **Open in browser**
    - Navigate to `http://localhost:..../`
