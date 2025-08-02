@@ -28,14 +28,6 @@ Before running this project, make sure you have the following installed on your 
 - **Node.js** (version 16.0 or higher)
 - **npm** (comes with Node.js)
 
-### How to Check if Node.js is Installed
-
-Open your terminal/command prompt and run:
-node --version
-npm --version
-
-If you see version numbers, you're good to go! If not, download Node.js from browser.
-
 ## Installation & Setup
 
 Follow these steps to get the application running on your local machine:
